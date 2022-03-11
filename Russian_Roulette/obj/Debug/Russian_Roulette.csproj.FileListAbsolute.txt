@@ -1,0 +1,12 @@
+C:\Users\Niki\source\repos\Russian_Roulette\Russian_Roulette\bin\Debug\Russian_Roulette.exe.config
+C:\Users\Niki\source\repos\Russian_Roulette\Russian_Roulette\bin\Debug\Russian_Roulette.exe
+C:\Users\Niki\source\repos\Russian_Roulette\Russian_Roulette\bin\Debug\Russian_Roulette.pdb
+C:\Users\Niki\source\repos\Russian_Roulette\Russian_Roulette\obj\Debug\Russian_Roulette.Properties.Resources.resources
+C:\Users\Niki\source\repos\Russian_Roulette\Russian_Roulette\obj\Debug\Russian_Roulette.csproj.GenerateResource.cache
+C:\Users\Niki\source\repos\Russian_Roulette\Russian_Roulette\obj\Debug\Russian_Roulette.csproj.CoreCompileInputs.cache
+C:\Users\Niki\source\repos\Russian_Roulette\Russian_Roulette\obj\Debug\Russian_Roulette.exe
+C:\Users\Niki\source\repos\Russian_Roulette\Russian_Roulette\obj\Debug\Russian_Roulette.pdb
+C:\Users\Niki\source\repos\Russian_Roulette\Russian_Roulette\obj\Debug\Russian_Roulette.Intro.resources
+C:\Users\Niki\source\repos\Russian_Roulette\Russian_Roulette\obj\Debug\Russian_Roulette.Menu.resources
+C:\Users\Niki\source\repos\Russian_Roulette\Russian_Roulette\obj\Debug\Russian_Roulette.csprojAssemblyReference.cache
+C:\Users\Niki\source\repos\Russian_Roulette\Russian_Roulette\obj\Debug\Russian_Roulette.Game.resources
