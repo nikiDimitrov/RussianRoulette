@@ -59,7 +59,7 @@ namespace Russian_Roulette
             "2",
             "3 ",
             "4",
-            "Just fucking kill me"});
+            "Just shoot me"});
             this.comboBox1.Location = new System.Drawing.Point(78, 257);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 21);

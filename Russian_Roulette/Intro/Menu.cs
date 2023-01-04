@@ -40,7 +40,7 @@ namespace Russian_Roulette
             {
                 MessageBox.Show("You HAVE to put bullets in the gun to play.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-            else if(comboBox1.SelectedItem.ToString() != "Just fucking kill me")
+            else if(comboBox1.SelectedItem.ToString() != "Just shoot me")
             {
                 bulletNum = int.Parse(comboBox1.SelectedItem.ToString());
                 game = new Game(bulletNum);

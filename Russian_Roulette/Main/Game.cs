@@ -32,7 +32,7 @@ namespace Russian_Roulette
             else
             {
                 suicide = true;
-                bulletsLeftTextBox.Text += $" Bye bro";
+                bulletsLeftTextBox.Text += $"Bye!";
             }
             
             PlaySpinAndCockSounds();
@@ -51,7 +51,7 @@ namespace Russian_Roulette
                     PlayShotSound();
                     if(suicide)
                     {
-                        MessageBox.Show("RIP", "RIP", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                        MessageBox.Show("Bye!", "Bye!", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                     }
                     else
                     {
@@ -176,23 +176,20 @@ namespace Russian_Roulette
 
         private int[] LoadRevolver(int _bullets)
         {
-            /*if (_bullets != 5 && _bullets != 6)
-            {*/
-                int[] bulletSlots = new int[_bullets]; 
-                for (int i = 0; i < _bullets; i++)
-                {
-                    Random rnd = new Random();
-                    int bulletNum = rnd.Next(1, 7); 
+            int[] bulletSlots = new int[_bullets]; 
+            for (int i = 0; i < _bullets; i++)
+            {
+                Random rnd = new Random();
+                int bulletNum = rnd.Next(1, 7); 
 
-                    while (bulletSlots.Contains(bulletNum))
-                    {
-                        rnd = new Random();
-                        bulletNum = rnd.Next(1, 7);
-                    }
-                    bulletSlots[i] = bulletNum; 
+                while (bulletSlots.Contains(bulletNum))
+                {
+                    rnd = new Random();
+                    bulletNum = rnd.Next(1, 7);
                 }
-                return bulletSlots;
-            //}
+                bulletSlots[i] = bulletNum; 
+            }
+            return bulletSlots;
  
         }
 
